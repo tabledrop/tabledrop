@@ -11,7 +11,7 @@ class InfoSystemsStudent:
    def helloStatement(self):
       print("Thanks for taking a moment of your time to look around my humble land of code and commits!")
 
-me = InfoSystemsStudent:
+me = InfoSystemsStudent()
 me.helloStatement()
 
 ```
