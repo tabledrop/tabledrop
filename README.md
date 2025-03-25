@@ -5,7 +5,7 @@
 class InfoSystemsStudent:
    def __init__(self):
       self.name = "Ori"
-      self.role = "Uni Student"
+      self.role = "Freelancer"
       self.langsSpoken = ["es_NI", "en_US", "ru_RU"]
 
    def helloStatement(self):
